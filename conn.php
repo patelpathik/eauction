@@ -2,7 +2,7 @@
 
     $s="localhost";
     $u="root";
-    $p="";
+    $p="root";
     $db="eauction";
 
     $conn= new mysqli($s,$u,$p,$db);
